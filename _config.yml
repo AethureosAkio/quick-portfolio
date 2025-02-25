@@ -1,11 +1,11 @@
-title: Mark Rodave # your name (or website title) here
+title: Test Name # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst | Developer | Tech Support
+  Test Line
   <br><br>
-  A highly skilled Data Analyst, System Analyst, and IT Support Professional with expertise in data analysis, automation, and system development. Proficient in tools like Excel (VBA/Macros), SQL, ASP.NET, and C#. Experienced in optimizing business processes, providing technical support, and developing web-based solutions. Adept at delivering efficient, data-driven solutions and handling multiple projects in fast-paced environments. Seeking to contribute technical skills and problem-solving abilities to a dynamic team.
+  Test Line 2
   <br><br>
-  <a href="https://www.linkedin.com/in/markrodavetamma/">View My LinkedIn Profile</a> 
+  <a href="a">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
